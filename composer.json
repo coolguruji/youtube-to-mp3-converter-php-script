@@ -1,0 +1,19 @@
+{
+    "name": "coolguruji/youtube-to-mp3-converter-php-script",
+    "type": "script",
+    "description": "youtube to mp3 converter php script",
+    "keywords": ["youtube to mp3 script in php","yt to mp3 php script","youtube video to mp3 downloader","youtube mp3 downloader script","youtube converter script","youtube converter"],
+    "homepage": "https://github.com/coolguruji/youtube-to-mp3-converter-php-script",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "coolguruji",
+            "email": "api@youtube6download.top",
+            "homepage": "http://demo.youtube6download.top",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
