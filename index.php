@@ -13,9 +13,6 @@ if(!empty($id)) {
    	parse_str($query, $params);
 	$id = $params['v'];
 	} 
-
-	$id = "https://youtu.be/_JmUe9Gtltk";
-
 	if (strpos($id, 'youtu.be') !== FALSE)
 	{
     	$ex = explode('/',$id);
